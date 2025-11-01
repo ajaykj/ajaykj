@@ -7,4 +7,4 @@
 
 ⚠️ Recruiters: Don't contact me, I will ignore you ⚠️
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykj)](https://github.com/ajaykj/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykj)](https://github.com/anuraghazra/github-readme-stats)
