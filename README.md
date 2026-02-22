@@ -4,7 +4,7 @@
 - 🌱 I’m currently helping WordPress users host their site at WordPress.com
 - 💬 AMA, but don't expect a reply
 - 📫 How to reach me: https://akumarjain.com
-- 🔌[Server Markdown](https://github.com/ajaykj/serve-markdown): A WordPress plugin that serves clean Markdown versions of your content to AI agents and crawlers. (My first-ever WordPress plugin).
+- 🔌[Serve Markdown](https://github.com/ajaykj/serve-markdown): A WordPress plugin that serves clean Markdown versions of your content to AI agents and crawlers. (My first-ever WordPress plugin).
 
 ⚠️ Recruiters: Don't contact me, I will ignore you ⚠️
 
