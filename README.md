@@ -7,5 +7,3 @@
 - 🔌[Serve Markdown](https://github.com/ajaykj/serve-markdown): A WordPress plugin that serves clean Markdown versions of your content to AI agents and crawlers. (My first-ever WordPress plugin).
 
 ⚠️ Recruiters: Don't contact me, I will ignore you ⚠️
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykj)](https://github.com/anuraghazra/github-readme-stats)
